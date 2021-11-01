@@ -1,6 +1,6 @@
 using System;
 
-namespace ReStore
+namespace API
 {
     public class WeatherForecast
     {
